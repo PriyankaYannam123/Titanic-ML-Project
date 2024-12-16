@@ -1,0 +1,16 @@
+# Python files
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment settings
+.env/
+venv/
+
+# Dataset files
+data/*.csv
+
+# VS Code settings
+.vscode/
